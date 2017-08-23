@@ -15,10 +15,10 @@ function sayHiToGrandma(string) {
   IF (string === lowerCase) {
       console.log('I can\'t hear you!')
   }
-  IF (string === upperCase) {
+  else IF (string === upperCase) {
     console.log('Yes INDEED!')
   }
-  IF (string === mixedCase ) {
+  else (string === mixedCase ) {
     console.log('I love you, too')
   }
 
