@@ -19,8 +19,8 @@ function sayHiToGrandma(string) {
     console.log('Yes INDEED!')
   }
   IF (string === mixedCase ) {
-    console.log('I love you, too') 
+    console.log('I love you, too')
   }
-   
-  
+
+
 }
